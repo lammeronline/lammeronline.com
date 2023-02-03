@@ -573,7 +573,12 @@ fieldset.polls dd div {
 }
 
 .online {
-	background-image: url("./en/icon_user_online.gif");
+   background-image: url("./en/icon_user_online.gif");
+   margin-top: -5px;
+}
+
+.online dt {
+   margin-top: 5px;
 }
 
 dd.profile-warnings {
